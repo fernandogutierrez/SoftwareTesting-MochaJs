@@ -1,0 +1,28 @@
+{
+  "name": "mochajs",
+  "version": "1.0.0",
+  "description": "this is a new project using mocha and chai js",
+  "main": "index.js",
+  "scripts": {
+    "test": "mochajs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fernandogutierrez/SoftwareTesting-MochaJs.git"
+  },
+  "keywords": [
+    "mochajs"
+  ],
+  "author": "Fernando Gutierrez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fernandogutierrez/SoftwareTesting-MochaJs/issues"
+  },
+  "homepage": "https://github.com/fernandogutierrez/SoftwareTesting-MochaJs#readme",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5",
+    "superagent": "^1.8.1",
+    "superagent-proxy": "^1.0.0"
+  }
+}
