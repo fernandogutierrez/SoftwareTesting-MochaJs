@@ -1,0 +1,24 @@
+{
+  "name": "sample",
+  "version": "0.0.1",
+  "description": "nodescription",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "repo"
+  },
+  "keywords": [
+    "123"
+  ],
+  "author": "fernando Gutierrez",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5",
+    "superagent": "^1.8.1",
+    "superagent-proxy": "^1.0.0"
+  }
+}

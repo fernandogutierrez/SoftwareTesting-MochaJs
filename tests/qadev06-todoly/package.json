@@ -1,0 +1,17 @@
+{
+  "name": "qadev06-todoly",
+  "version": "1.0.0",
+  "description": "description",
+  "main": "index.js",
+  "scripts": {
+    "test": "mochajs"
+  },
+  "author": "fernando",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5",
+    "superagent": "^1.8.1",
+    "superagent-proxy": "^1.0.0"
+  }
+}
